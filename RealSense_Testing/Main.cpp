@@ -1,5 +1,5 @@
 // main file
-// http://www.samontab.com/web/2016/04/interfacing-intel-realsense-f200-with-opencv/
+// Based on: http://www.samontab.com/web/2016/04/interfacing-intel-realsense-f200-with-opencv/
 
 #include <cstdio>
 #include <iostream>
